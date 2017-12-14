@@ -1,0 +1,22 @@
+#time{
+	width:80%;
+	height:70%;
+	font-size:25pt;
+	color:#223344;
+	margin-left:8%;
+	text-align:center;
+}
+#item-title-label{
+	width:270px;
+	text-indent: 15px;
+}
+#MyrealTime{
+	font-size:14pt;
+	margin-left:36%;
+	margin-top:20%;
+}
+#alarmTime{
+	color:rgba(0,0,0,0.5);
+	margin-left:50px;
+	margin-top:-10%;
+}
